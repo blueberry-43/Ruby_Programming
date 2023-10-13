@@ -9,7 +9,7 @@
 # food = {"milk"=>10,"bread"=>20,"butter"=>30,"cheese"=>40}
 # p food
 #
-# #accessing the value of a key
+# accessing the value of a key
 # # Syntax: hash_name[key]
 # puts food["milk"]
 # states_cities_in_India = {"Maharashtra"=>["Mumbai","Pune","Nagpur","Nashik"],"Karnataka"=>["Bangalore","Mysore","Mangalore","Hubli"],"Tamil Nadu"=>["Chennai","Coimbatore","Madurai","Salem"]}
